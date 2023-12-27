@@ -1,0 +1,17 @@
+﻿body
+{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.footer1 .header1
+{
+    position: absolute;
+    width: 100%;
+}
+.lbtnAddNew
+{
+    outline: none;
+    text-decoration: none;
+}
